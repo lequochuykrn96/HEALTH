@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/baitap" android:title="Bài tập" />
+    <item android:id="@+id/lichtap" android:title="Lịch Tập"/>
+    <item android:id="@+id/anuong" android:title="Ăn Uống"/>
+</menu>
